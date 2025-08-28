@@ -1,4 +1,5 @@
-pip install tensorflow
+# Step 1 : Load the necessary libraries and the pre-trained model
+
 import numpy as np
 import tensorflow as tf
 from tensorflow.keras.datasets import imdb
